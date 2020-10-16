@@ -25,3 +25,4 @@ WHEN the employee clicks the save button
 THEN events are saved in the timeblock for that hour
  
  https://dfrench19.github.io/05-Workday-scheduler/.
+![2020-10-15 (2)](https://user-images.githubusercontent.com/67846486/96213466-b096e480-0f3e-11eb-99b8-2b183a90ab50.png)
